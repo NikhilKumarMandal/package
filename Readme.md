@@ -21,11 +21,22 @@ npm install express-strategy
 
 # Using yarn
 yarn add express-strategy
-![Alt text](./assets/importImage.png)
-
 <<<<<<< HEAD
 
 
 =======
 ---
 >>>>>>> cd35ff839299166d1fcde6e0bd2df5bce3c5e1e4
+```
+
+![Example how to import]("https://github.com/user-attachments/assets/29b39260-3f2c-4f2e-b063-92cd083506de")
+---
+
+You can use it as follows.
+
+![Example how to use](https://github.com/user-attachments/assets/1691bb4d-0d42-41ae-b566-456776668a13)
+
+
+-- 
+
+![Example how to use](https://github.com/user-attachments/assets/ea6a5c17-25e2-4405-9a6b-d74341f2ecaa)
