@@ -22,5 +22,9 @@ npm install express-strategy
 # Using yarn
 yarn add express-strategy
 
+<<<<<<< HEAD
 
 
+=======
+---
+>>>>>>> cd35ff839299166d1fcde6e0bd2df5bce3c5e1e4
