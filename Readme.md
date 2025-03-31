@@ -22,6 +22,5 @@ npm install express-strategy
 # Using yarn
 yarn add express-strategy
 
----
-![importImage](./assets/importImage.png)
+
 
