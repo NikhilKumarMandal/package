@@ -21,10 +21,10 @@ npm install express-strategy
 
 # Using yarn
 yarn add express-strategy
+```
 
-<<<<<<< HEAD
 
+![Screenshot 2025-03-31 210920](https://github.com/user-attachments/assets/29b39260-3f2c-4f2e-b063-92cd083506de)
 
-=======
----
->>>>>>> cd35ff839299166d1fcde6e0bd2df5bce3c5e1e4
+![Screenshot 2025-03-31 211006](https://github.com/user-attachments/assets/1691bb4d-0d42-41ae-b566-456776668a13)
+![Screenshot 2025-03-31 211024](https://github.com/user-attachments/assets/ea6a5c17-25e2-4405-9a6b-d74341f2ecaa)
